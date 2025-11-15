@@ -8,9 +8,10 @@
 - **/docs/Detailed_Analysis.md** → Full breakdown of every chart with explanations  
 - **SaaS_Business_1.twb** → Tableau workbook containing all dashboards
 
-
 MRR &amp; cohort retention dashboard built in Tableau (BigQuery -> Tableau pipeline)
-## Project Summary – What This Dashboard Really Shows
+##<img width="1338" height="600" alt="saaaas" src="https://github.com/user-attachments/assets/89928bc6-c157-4e74-9ea0-066460d15c46" />
+
+ Project Summary – What This Dashboard Really Shows
 
 This dashboard was made to understand how our SaaS business is growing month-by-month, where the revenue is coming from, and how strong our customer retention actually is. I connected BigQuery data into Tableau and then created different views to read the full story behind our MRR numbers.
 
