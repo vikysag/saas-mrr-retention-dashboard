@@ -2,6 +2,13 @@
 > This dashboard explains how our SaaS revenue is growing and how customer retention behaves over time.  
 > It helps identify what's driving MRR growth and where churn/expansion is happening.
 
+## How to Navigate This Project
+
+- **README.md** → High-level summary of all insights (quick view)
+- **/docs/Detailed_Analysis.md** → Full breakdown of every chart with explanations  
+- **SaaS_Business_1.twb** → Tableau workbook containing all dashboards
+
+
 MRR &amp; cohort retention dashboard built in Tableau (BigQuery -> Tableau pipeline)
 ## Project Summary – What This Dashboard Really Shows
 
