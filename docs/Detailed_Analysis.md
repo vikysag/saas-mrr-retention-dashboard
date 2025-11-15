@@ -16,3 +16,16 @@ The bars show how revenue is increasing every month, while the red line shows ho
 is shifting. This view helped me understand if revenue is growing because of healthy customers 
 or because of expansion coming from few accounts.
 
+## 4. MRR Movement Breakdown
+
+This section helped me understand what is actually driving the revenue every month. I broke MRR into three parts:
+
+New MRR – Revenue coming from brand new customers
+
+Expansion MRR – Revenue increasing because existing customers upgraded or bought more
+
+Churn MRR – Revenue lost when customers cancel or downgrade
+
+I used a stacked line/area chart so I can see all three movements in one place.
+This view made it easy to check if the company is growing because of new customers or because old customers are expanding.
+It also helped me notice if churn is rising in any month.
