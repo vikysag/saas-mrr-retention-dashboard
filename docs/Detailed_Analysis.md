@@ -29,3 +29,29 @@ Churn MRR – Revenue lost when customers cancel or downgrade
 I used a stacked line/area chart so I can see all three movements in one place.
 This view made it easy to check if the company is growing because of new customers or because old customers are expanding.
 It also helped me notice if churn is rising in any month.
+
+## 5. Cohort Retention – MRR Heatmap
+
+This part of the dashboard helped me understand how well we are keeping customers month over month. I used cohort analysis because it shows how customers behave after signing up, not only how much revenue we make.
+
+The heatmap layout makes it easy to follow retention:
+
+Rows → signup month (cohorts)
+
+Columns → months since signup
+
+Color → how much MRR stays from the original baseline
+
+Dark colors mean higher retention, light colors mean lower retention.
+
+This view helped me see:
+
+if new customers are staying longer
+
+if older cohorts are improving or dropping
+
+if MRR retention is strong or weak
+
+how long it takes before customers churn completely
+
+This is one of the most important charts because it tells if the business model is healthy or not.
